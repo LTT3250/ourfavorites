@@ -4,3 +4,4 @@ Sandwich
 Mac and Cheese
 Chinese
 Steak
+Cereal
